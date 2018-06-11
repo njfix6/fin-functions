@@ -1,3 +1,4 @@
 dist
 fin_functions.egg-info
 __pycache__
+*.pyc
