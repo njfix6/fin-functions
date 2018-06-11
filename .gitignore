@@ -1,3 +1,3 @@
-./dist
-./fin_functions.egg-info
-*__pycache__*
+dist
+fin_functions.egg-info
+__pycache__
